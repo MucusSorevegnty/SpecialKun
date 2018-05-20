@@ -1,15 +1,15 @@
 {
-  "name": "test",
+  "name": "specialkun",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mucus",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^11.3.2",
-  },
-  "devDependencies": {},
-  "description": ""
+  "author": "me",
+  "license": "ISC"
 }
